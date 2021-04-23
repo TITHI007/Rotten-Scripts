@@ -554,6 +554,33 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "NovusEdge",
+      "name": "NovusEdge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68768969?v=4",
+      "profile": "https://github.com/NovusEdge",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "VanTekken",
+      "name": "Haz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20387444?v=4",
+      "profile": "https://github.com/VanTekken",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sourabhkumar45",
+      "name": "Sourabh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55038876?v=4",
+      "profile": "https://github.com/sourabhkumar45",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
